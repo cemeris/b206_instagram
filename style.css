@@ -1,3 +1,4 @@
+@import url('Edu_VIC_WA_NT_Begginer.css');
 * {
   font-family: "Helvetica Neue";
 }
@@ -124,10 +125,10 @@ section {
   border-top: 1px solid #dbdbdb;
   display: flex;
   justify-content: center;
-  height: 49px;
 }
 
 .gallery_tabs a {
+  font-family: 'Edu VIC WA NT Beginner', cursive;
   height: 49px;
   display: flex;
   align-items: center;
